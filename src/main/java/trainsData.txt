@@ -1,0 +1,10 @@
+1 Vitebsk Minsk 25:06:2021 17:33 25:06:2021 22:07 3 30 25 
+2 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+3 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+4 Vitebskfff Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+5 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+6 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+7 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+8 Vitebsk Minsk 25;06;2021 17;33 25;06;2021 22;07 3 30 25 
+9 fdsfds dfdfds fdsfdsfds dffdsfds fdfdsfds fddfsdf fdfdsfd fddsfdsf fddf 
+10 dssda sdasad dasdsads dsadsa sddsa sdaads dssda dsdsa sdadsa 
